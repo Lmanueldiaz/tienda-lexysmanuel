@@ -2,6 +2,8 @@
 
 # Cambio 1
 
+# Cambio 2
+
 ## Tienda creada por Lexys MAnuel
 
 ## Problema con el token
